@@ -8,6 +8,9 @@
 # 40p P 4 dados IGUAIS
 # 50p G 5 dados IGUAIS
 
+########################
+# comentário da nova bransh
+########################
 import random
 
 dados = []
